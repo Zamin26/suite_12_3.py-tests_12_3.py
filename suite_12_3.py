@@ -1,6 +1,6 @@
 import unittest
 from runner import Runner  # Импортируем Runner
-from runner_and_tournament import Runner, Tournament
+from runner_and_tournament import Runner, Tournament # Импортируем Runner, Tournament
 import tests_12_3
 
 
